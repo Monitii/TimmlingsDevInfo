@@ -2,4 +2,6 @@ Make sure the music file is specifically called "music.mp3"
 
 this music.mp3 file will be downloaded by clients ingame and played via the radio (this can be used for announcements or funny random music!!)
 
+MAKE SURE YOUR MUSIC.MP3 HAS 2 CHANNELS AND IS 44100 SAMPLE RATE!!
+
 The max characters on the MOTD is 385.
