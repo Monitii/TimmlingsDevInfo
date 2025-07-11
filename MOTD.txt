@@ -1,2 +1,3 @@
 Welcome to <u>Timmlings Pre-Release!</u> Enjoy your early access to Timmlings Sandbox.
-<size=1>wtf is tf2
+
+Latest build currently we are testing <i>sandbox</i> and especially <b>C4's and Glue.</b> Please help us track down and squash bugs!
